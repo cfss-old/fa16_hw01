@@ -15,5 +15,4 @@ Repository for first CFSS homework assignment
 
 *I linked a website  
 4. After this, I'll check to make sure no one else made any changes to the master by using "pull." There shouldn't be any, and therefore I will commit the changes and note what changes I made, and then finally I will push the edits bcak using the "push" command.  
-
 5. Finally I will create a pull request on Github in order to **turn in my homework assignment**. 
