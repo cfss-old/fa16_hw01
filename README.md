@@ -14,16 +14,16 @@ My name is Chih-Yu Chiang. I'm from MAPSS and intends doing the MACSS certificat
 
 
 ## Process of Completing the Work
-1. Setting up all the things!  
+1. Setting up everything!  
 Many thanks for a super detailed and clear step-by-step tutor documentation.
 
-1. Editing the file on line.  
+1. Editing the file on line  
 Open the on-line editor in GitHub, edit the text, and submit.
 
-1. Editing the file in local.  
+1. Editing the file in local  
 Pull the README file from RStudio, open the local file, see the change from the previous editing, edit the text, submit, and push onto GitHub.
 
-1. Encountering an error  
+1. Encountering an **error**  
 Whenever I try to *preview* the file in any format, RStudio tells me that there're some updates required for the package, and starts the downloading and installing processes. However, after that, there's still no preview be performed and when I click the preview button again, it promts me to do the downloading and installing again.
 This hasn't been solved when I submitted the hw. And this also happens when I knit rmd files.
 
