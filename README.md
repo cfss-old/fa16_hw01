@@ -27,4 +27,4 @@ After clicking 'create project', ~~I did not know what to do at the first time~~
 ### Third,
 And then I wanted to write down something. **R Markdown Reference Guide** helped me a lot to learn syntax. [link](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 ### Last,
-Hope I can save, commit, and push to GitHub successfully.
+Hope I can save, commit, and push to GitHub successfully."This is Jongyoon's homework" 
