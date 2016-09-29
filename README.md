@@ -1,3 +1,3 @@
 # hw1
 Repository for first CFSS homework assignment
-I dont know what I am supposed to be doing but I think I am learning. I feel as if I could use more computer sciencee education!
+I am going to try to do this again and be a bit more thorough and accurate when it comes to what the rubric expects. Hello. My name is Brian Pennington. I recently graduated from the Honors College of FAU where I studied psychology and philosophy. My interest in data science tends to stem from being able to process and analyze data sets that provide nuance understanding as to what it means to be a person and what factors influence behavior and cognition pertaining to social psychology. 
