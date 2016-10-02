@@ -1,7 +1,6 @@
-# hw1
 # Homework 1
-# Computing for the Social Sciences
-# Camacho Jonathan E.
+## Computing for the Social Sciences
+## Camacho Jonathan E.
 
 While the configuration of Github and RStudion was conducted
 
