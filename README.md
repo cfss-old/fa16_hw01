@@ -12,7 +12,7 @@ While the configuration of Github and RStudio was conducted:
 
 ![Github on Rstudio](Images/screenshot 17.png "Github on Rstudio")
 
-The the workflow for this assignment was done using the command line on a MAC Book Pro. Furthermore, the changes to the file README.md were performed using
+The workflow for this assignment was done using the command line on a MAC Book Pro. Furthermore, the changes to the file README.md were performed using
 the editor Atom:
 
 ![Atom editor](Images/screenshot 18.png "Atom editor")
@@ -21,7 +21,7 @@ After changes were made to the README.md file, the changes were staged on git (u
 
 ![shell](Images/screenshot 19.png "shel")
 
-Finally a pull request as perform through the Github web page.
+Finally a pull request was performed through the Github web page.
 
 ### Reflection of installation and use of Github and Markdown syntax.
 
