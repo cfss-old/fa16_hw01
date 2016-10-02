@@ -1,13 +1,11 @@
 # Homework 1
-> Computing for the Social Sciences
-> ##### Camacho Jonathan E.
+## Camacho Jonathan E.
+### [Computing for the Social Sciences][CSS].
+[CSS]: https://uc-cfss.github.io/index.html
+
 
 I start my morning with a cup of coffee and
-[The New York Times][NY Times].
-
-[ny times]: http://www.nytimes.com/
-
-While the configuration of Github and RStudion was conducted:
+While the configuration of Github and RStudio was conducted:
 
 ![Github on Rstudio](Images/screenshot 17.png "Github on Rstudio")
 
