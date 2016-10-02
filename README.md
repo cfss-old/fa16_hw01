@@ -1,6 +1,6 @@
 # Homework 1
-## Computing for the Social Sciences
-##### Camacho Jonathan E.
+> Computing for the Social Sciences
+> ##### Camacho Jonathan E.
 
 I start my morning with a cup of coffee and
 [The New York Times][NY Times].
