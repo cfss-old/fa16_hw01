@@ -2,9 +2,14 @@
 ## Computing for the Social Sciences
 ## Camacho Jonathan E.
 
-While the configuration of Github and RStudion was conducted
+I start my morning with a cup of coffee and
+[The New York Times][NY Times].
 
-![Testing](/Images/screenshot 16.png "Test")
+[ny times]: http://www.nytimes.com/
 
-The the workflow for this asiment was
-The following changes to the file README.md were done using the command line on a MAC Book Pro
+While the configuration of Github and RStudion was conducted:
+
+![Github on Rstudio](Images/screenshot 17.png "Github on Rstudio")
+
+the the workflow for this assignment was done using the command line on a MAC Book Pro. Furthermore, the changes to the file README.md were performed using
+the editor Atom.
