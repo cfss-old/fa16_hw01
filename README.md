@@ -3,7 +3,7 @@ Repository for first CFSS homework assignment
 #Introduction
 Hello! My name is *Emily Forden* and I am a 
 **5th Year** in the 
-[History PdD program](https://history.uchicago.edu/) 
+[History PhD program](https://history.uchicago.edu/) 
 where I study ancient Roman economics.
 
 _Here are some interesting things about me!_  
