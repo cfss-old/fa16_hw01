@@ -9,13 +9,13 @@ Besides this, I am also interested in the **political sociology **, especially t
 
 *Other interests outside academic*
 
-* reading
+* *reading*
 
-* guitar
+* *guitar*
 
-* cooking
+* *cooking*
 
-* movie
+* *movie*
 
 
 This is My [FB link](https://www.facebook.com/tong.ju). 
