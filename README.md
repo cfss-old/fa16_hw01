@@ -18,7 +18,7 @@ Besides this, I am also interested in the **political sociology **, especially t
 * *movie*
 
 
-This is My [FB link](https://www.facebook.com/tong.ju). 
+Here is My [FB link](https://www.facebook.com/tong.ju). 
 
 ![*[modified SH2]*](http://pubs.acs.org/appl/literatum/publisher/achs/journals/content/acbcct/2016/acbcct.2016.11.issue-9/acschembio.6b00555/20160912/images/medium/cb-2016-00555f_0006.gif "Title")
 
@@ -40,7 +40,7 @@ This is My [FB link](https://www.facebook.com/tong.ju).
 
 >##Reflection##
 
->Fortunately, I was not confronted with any problem during installation of software. But it took me some time to understand how "fork/pull request" works and why we need to create a markdown version of file. Besides this, nothing more to say. Hopefully, the "Report of process" and this "Reflection" is what the instructor expect. Thank you.   
+>Fortunately, I was not confronted with any problem during installation of software. But it took me some time to understand how "fork/pull request" works and why we need to create a markdown version of file. Besides this, nothing more to say. Hopefully, the "Report of process" and this "Reflection" is what the instructor expects. Thank you.   
 
 
 
