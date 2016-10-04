@@ -25,6 +25,24 @@ This is My [FB link](https://www.facebook.com/tong.ju).
 *Above is the modified protein SH2 domain I played for many years.*
 
 
+>##Report of Process##
+>In this assignment, I followed the following workflow:
+
+>1. Folk the repository of the hw01 from uc-cfss/hw01;
+
+>2. Clone the repository URL to the local R-studio;
+
+>3. Edit the README.md in R-studio;
+
+>4. Commit the edited README.md to my own Git with a commit message;
+
+>5. Create a pull request and submit the final work to the uc-cfss/hw01.
+
+>##Reflection##
+
+>Fortunately, I was not confronted with any problem during installation of software. But it took me some time to understand how "fork/pull request" works and why we need to create a markdown version of file. Besides this, nothing more to say. Hopefully, the "Report of process" and this "Reflection" is what the instructor expect. Thank you.   
+
+
 
 
 
