@@ -7,7 +7,7 @@ Before coming to Chicago, my research focused on the protein engineering and pro
 
 Besides this, I am also interested in the **political sociology **, especially the historical memory of Chinese people in the  twentieth century.
 
-*Other interests outside academic*
+*Other interests outside academic:*
 
 * *reading*
 
@@ -20,8 +20,9 @@ Besides this, I am also interested in the **political sociology **, especially t
 
 This is My [FB link](https://www.facebook.com/tong.ju). 
 
-![*Above is the modified protein SH2 domain I played for many years.*](http://pubs.acs.org/appl/literatum/publisher/achs/journals/content/acbcct/2016/acbcct.2016.11.issue-9/acschembio.6b00555/20160912/images/medium/cb-2016-00555f_0006.gif "Title")
+![*[modified SH2]*](http://pubs.acs.org/appl/literatum/publisher/achs/journals/content/acbcct/2016/acbcct.2016.11.issue-9/acschembio.6b00555/20160912/images/medium/cb-2016-00555f_0006.gif "Title")
 
+*Above is the modified protein SH2 domain I played for many years.*
 
 
 
