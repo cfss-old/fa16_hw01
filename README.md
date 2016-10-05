@@ -9,14 +9,23 @@ I attempted the “more powerful workflow” and overall it wasn’t so bad. I w
 
 ###Workflow 
 Here’s the summary of my workflow. The corresponding terminal commands follow each step below: 
+
 (@) First I specified the destination on my laptop where I wanted the file to go.
+
 i) cd Desktop/Computation/
+
 (@) I then cloned the HW1 repository in order to create a local copy of the file
+
 ii) git clone https://github.com/rishigarora/hw01
+
 (@) I opened the file in RStudio to edit it locally.
+
 iii) open README.md
+
 (@) After saving the file, I committed the change and pushed it to my repository  
+
 iv) git commit -m "Made change"
+
 (@) I executed the pull request through the browser
 
 ####Quick Tip
