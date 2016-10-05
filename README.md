@@ -7,7 +7,7 @@ I am a second year PhD student in the sociology department. I'm broadly interest
 ##My Process
 I attempted the “more powerful workflow” and overall it wasn’t so bad. I was having difficulties linking Git to my terminal but I went to see Josh and he helped me install [Homebrew](http://brew.sh/index.html) which did the trick. This experience offered my first major computational lesson: trying to understand **by yourself** exactly why something isn’t working can quickly turn into a waste of time. Ask around for help and soon enough you’ll find someone who, even if they can’t diagnose the problem, can at least *fix* the problem. Get it working. Move on. 
 
-###Workflow
+###Workflow 
 Here’s the summary of my workflow. The corresponding terminal commands follow each step below: 
 (@) First I specified the destination on my laptop where I wanted the file to go.
 i) cd Desktop/Computation/
