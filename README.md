@@ -10,23 +10,23 @@ I attempted the “more powerful workflow” and overall it wasn’t so bad. I w
 ###Workflow 
 Here’s the summary of my workflow. The corresponding terminal commands follow each step below: 
 
-(@) First I specified the destination on my laptop where I wanted the file to go.
+(1) First I specified the destination on my laptop where I wanted the file to go.
 
-i) cd Desktop/Computation/
+  i) cd Desktop/Computation/
 
-(@) I then cloned the HW1 repository in order to create a local copy of the file
+(2) I then cloned the HW1 repository in order to create a local copy of the file
 
-ii) git clone https://github.com/rishigarora/hw01
+  ii) git clone https://github.com/rishigarora/hw01
 
-(@) I opened the file in RStudio to edit it locally.
+(3) I opened the file in RStudio to edit it locally.
 
-iii) open README.md
+  iii) open README.md
 
-(@) After saving the file, I committed the change and pushed it to my repository  
+(4) After saving the file, I committed the change and pushed it to my repository  
 
-iv) git commit -m "Made change"
+  iv) git commit -m "Made change"
 
-(@) I executed the pull request through the browser
+(5) I executed the pull request through the browser
 
 ####Quick Tip
 This [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) was very helpful in learning the various markdown commands employed here (bold, italics, bullets, etc). I can definitely see how markdown could be a more efficient method than traditional word processing and I look forward to learning more tricks!
