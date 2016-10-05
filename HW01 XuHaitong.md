@@ -11,7 +11,7 @@ This is the repository of Benjamin Soltoff for homework 01
 
 **_Bold and Italic_**
 
-Image Incert ![alt text](http://vignette4.wikia.nocookie.net/carbotanimations/images/9/9d/Zergling.jpg/revision/latest?cb=20151118200835 "Zergling")
+Image Insert ![alt text](http://vignette4.wikia.nocookie.net/carbotanimations/images/9/9d/Zergling.jpg/revision/latest?cb=20151118200835 "Zergling")
 
 > It's a zergling, Lester...smaller type of zerg...
 
